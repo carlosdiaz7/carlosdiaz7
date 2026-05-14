@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos Diaz 👋
 
-<!--
-**carlosdiaz7/carlosdiaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí
+- 🎓 Estudiante de **Ingeniería de Sistemas**.
+- 🇵🇪 18 años, desde Perú.
+- 🐍 Mi lenguaje favorito y principal es **Python**.
 
-Here are some ideas to get you started:
+### 🛠️ Lo que más uso
+```python
+class Carlos:
+    def __init__(self):
+        self.name = "Carlos Diaz"
+        self.age = 18
+        self.country = "Perú"
+        self.specialty = "Python"
+        self.status = "Aprendiendo constantemente"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def goal(self):
+        return "Dominar la Ingeniería de Sistemas"
