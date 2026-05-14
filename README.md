@@ -1,19 +1,19 @@
 # ¡Hola! Soy Carlos Diaz 👋
 
-### 🐍 Developer Profile (Python Dict)
-```python
-carlos_stats = {
-    "nombre": "Carlos Diaz",
-    "edad": 18,
-    "pais": "Perú 🇵🇪",
-    "carrera": "Ingeniería de Sistemas",
-    "lenguaje_principal": "Python",
-    "habilidades": [
-        "Automatización", 
-        "Lógica de programación", 
-        "Aprendizaje rápido"
-    ],
-    "mensaje": "Aprendiz de todo, enfocado en Python."
-}
+### 👨‍💻 Sobre mí
+- 🎓 Estudiante de **Ingeniería de Sistemas**.
+- 🇵🇪 18 años, desde Perú.
+- 🐍 Mi lenguaje favorito y principal es **Python**.
 
-print(f"Hola, mi nombre es {carlos_stats['nombre']} y mi pasión es {carlos_stats['lenguaje_principal']}")
+### 🛠️ Lo que más uso
+```python
+class Carlos:
+    def __init__(self):
+        self.name = "Carlos Diaz"
+        self.age = 18
+        self.country = "Perú"
+        self.specialty = "Python"
+        self.status = "Aprendiendo constantemente"
+
+    def goal(self):
+        return "Dominar la Ingeniería de Sistemas"
